@@ -1,3 +1,1 @@
-vmess://eyJhZGQiOiIxMDguMTgxLjIwMC4yMjAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDU0ODE0YTEtN2E5My00NWY4LTkxMTctZGIzMTdhMjVkMTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNzE2MyIsInBzIjoi8J+UkiBWTS1UQ1AtTkEg8J+HuvCfh7ggVVMtMTA4LjE4MS4yMDAuMjIwOjE3MTYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://ebea2c0f-8ef8-4073-8c47-af885eb4fb33@185.146.173.58:8080?security=&type=ws&path=/servernet&host=sxc22.servernet.fun.&encryption=none#%F0%9F%A9%B5%7CTelegram+:+@tv2rayrr%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
-vless://6afdde49-a113-486f-acf5-690d1f04998b@185.146.173.58:8080?security=&type=ws&path=/ServerNett&host=severv.servernet.fun.&encryption=none#%F0%9F%A9%B5%7CTelegram+:+@tv2rayrr%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#%F0%9F%87%BA%F0%9F%87%B8US-45.158.171.148-0536
