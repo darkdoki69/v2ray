@@ -1,1 +1,1 @@
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&security=tls&encryption=none&host=gghdfa.pages.dev&fp=randomized&type=ws&sni=gGHDFa.pAgeS.Dev#ADSL%2FMTN%20--%20%40NodeVPNch
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netfreedom0%20%2320
