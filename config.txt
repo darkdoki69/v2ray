@@ -3,3 +3,5 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&fp=chrome&type=tcp#UnitedState%20-%20%23Paid
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?security=&type=grpc&encryption=none#UnitedState%20-%20%23Paid
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&type=grpc&encryption=none#UnitedState%20-%20%23Paid
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#US-VIP%20%23e0001
