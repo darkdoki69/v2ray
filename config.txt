@@ -1,1 +1,1 @@
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#United%20States%20%26%200006
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B15%5D
